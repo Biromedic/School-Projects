@@ -1,0 +1,28 @@
+table {
+    border-collapse:collapse;
+    table-layout: fixed;
+    border-spacing: 0;
+}
+
+.tdStyle {
+    border: 2px solid black;
+    font-size:20px;
+    font-family:Helvetica, Arial, sans-serif;
+    color:yellow;
+    line-height: 1;
+    width: 50px;
+    height: 50px;
+    min-width: 50px;
+    max-width: 50px;
+    min-height: 50px;
+    max-height: 50px;
+    text-align: center;
+}
+
+.XStyle{
+    background-color: red;    
+}
+
+.OStyle{
+    background-color: seagreen;
+}

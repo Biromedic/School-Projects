@@ -1,0 +1,3 @@
+C:/Users/birka/Desktop/LabExam3/cmake-build-debug/CMakeFiles/LabExam3.dir
+C:/Users/birka/Desktop/LabExam3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/birka/Desktop/LabExam3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

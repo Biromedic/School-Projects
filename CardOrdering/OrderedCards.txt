@@ -1,0 +1,13 @@
+      Club - Five
+      Club - Face 15
+   Diamond - Five
+   Diamond - Nine
+   Diamond - Jack
+    G Suit - Three
+     Heart - Three
+     Heart - Four
+     Heart - Five
+     Heart - Queen
+     Spade - Number 0
+     Spade - Two
+     Spade - Five

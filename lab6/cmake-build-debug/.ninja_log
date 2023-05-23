@@ -1,0 +1,27 @@
+# ninja log v5
+13	467	7013663217263669	CMakeFiles/lab6.dir/Rectangle.cpp.obj	968eea4b8b35139
+1	477	7013663217353426	CMakeFiles/lab6.dir/main.cpp.obj	eaefe3d0ed0cc760
+8	485	7013663217503033	CMakeFiles/lab6.dir/Circle.cpp.obj	a00f42580c765389
+31	488	7013663217522973	CMakeFiles/lab6.dir/Shape.cpp.obj	21afabc242ccffaf
+20	496	7013663217616729	CMakeFiles/lab6.dir/Triangle.cpp.obj	5428bbdb76cb344a
+2	307	7013664506203399	CMakeFiles/lab6.dir/main.cpp.obj	eaefe3d0ed0cc760
+2	328	7013666003379940	CMakeFiles/lab6.dir/main.cpp.obj	eaefe3d0ed0cc760
+6	329	7013666003379940	CMakeFiles/lab6.dir/Rectangle.cpp.obj	968eea4b8b35139
+6	349	7013666256394640	CMakeFiles/lab6.dir/Rectangle.cpp.obj	968eea4b8b35139
+2	361	7013666256510075	CMakeFiles/lab6.dir/main.cpp.obj	eaefe3d0ed0cc760
+7	350	7013666929023320	CMakeFiles/lab6.dir/Rectangle.cpp.obj	968eea4b8b35139
+3	351	7013666929033297	CMakeFiles/lab6.dir/main.cpp.obj	eaefe3d0ed0cc760
+351	457	7013666930065323	lab6.exe	ac8603142f814df1
+2	315	7013670067289453	CMakeFiles/lab6.dir/main.cpp.obj	eaefe3d0ed0cc760
+315	422	7013670068329070	lab6.exe	ac8603142f814df1
+7	342	7013671922339558	CMakeFiles/lab6.dir/Rectangle.cpp.obj	968eea4b8b35139
+2	348	7013671922399405	CMakeFiles/lab6.dir/main.cpp.obj	eaefe3d0ed0cc760
+348	450	7013671923389551	lab6.exe	ac8603142f814df1
+2	307	7013672320093901	CMakeFiles/lab6.dir/Rectangle.cpp.obj	968eea4b8b35139
+2	292	7013672565670362	CMakeFiles/lab6.dir/Rectangle.cpp.obj	968eea4b8b35139
+293	397	7013672566683534	lab6.exe	ac8603142f814df1
+3	367	7013672934119499	CMakeFiles/lab6.dir/main.cpp.obj	eaefe3d0ed0cc760
+367	471	7013672935130220	lab6.exe	ac8603142f814df1
+7	363	7013674878336353	CMakeFiles/lab6.dir/main.cpp.obj	eaefe3d0ed0cc760
+3	365	7013674878356303	CMakeFiles/lab6.dir/Circle.cpp.obj	a00f42580c765389
+365	470	7013674879373727	lab6.exe	ac8603142f814df1

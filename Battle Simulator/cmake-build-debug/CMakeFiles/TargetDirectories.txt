@@ -1,0 +1,3 @@
+C:/Users/birka/Desktop/C++/Battle Simulator/cmake-build-debug/CMakeFiles/Battle_Simulator.dir
+C:/Users/birka/Desktop/C++/Battle Simulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/birka/Desktop/C++/Battle Simulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
